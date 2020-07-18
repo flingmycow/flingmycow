@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Fumi 👋
+
+I'm a data engineer (soon to be Customer Engineer at Google!) and use Python and SQL to write scripts and data pipelines for creating clean, reuseable datasets. I have also _dabbled_ with basic web development and devops. Technical things aside I am passionate about D&I, love reading, cooking delicious food, games, silly cartoons and cute stuff.
 
 <!--
 **flingmycow/flingmycow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
