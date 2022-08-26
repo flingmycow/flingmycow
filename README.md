@@ -1,6 +1,6 @@
 ## Hi, I'm Fumi 👋
 
-I'm a Customer Engineer specialising in Smart Analytics at Google Cloud. I used to be a data engineer where I primarily used Python and SQL to write scripts and data pipelines for creating clean, reuseable datasets. I have also _dabbled_ with basic web development and devops. Technical things aside I am passionate about D&I, love reading, cooking delicious food, games, silly cartoons and cute stuff.
+I'm a Customer Engineer specialising in Smart Analytics at Google Cloud. I used to be a data engineer where I primarily used Python and SQL to write scripts and data pipelines for creating clean, reuseable datasets. I have also _dabbled_ with basic web development and devops. Technical things aside I love reading, travelling, cooking delicious food, board games, silly cartoons and cute stuff.
 
 😄 Pronouns: she/her
 
