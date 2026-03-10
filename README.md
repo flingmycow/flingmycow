@@ -1,6 +1,6 @@
 ## Hi, I'm Fumi 👋
 
-I'm a Customer Engineer specialising in Smart Analytics and AI/ML at Google Cloud. I used to be a data engineer where I primarily used Python and SQL to write scripts and data pipelines for creating clean, reuseable datasets. I have also _dabbled_ with basic web development and devops. Technical things aside I love reading, travelling, cooking delicious food, board games, silly cartoons and cute stuff.
+I'm a Customer Engineer specialising in Smart Analytics and AI/ML at Google Cloud. I used to be a data engineer where I primarily used Python and SQL to write scripts and data pipelines for creating clean, reuseable datasets. I have also _dabbled_ with web development and devops. Technical things aside I love reading, travelling, cooking delicious food, board games, silly cartoons and cute stuff.
 
 <!--
 **flingmycow/flingmycow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
